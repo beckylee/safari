@@ -1,5 +1,5 @@
 safe: true
 source: https://github.com/beckylee/safari.git
-destination: http://beckylee.github.com/safari.html
+destination: /Users/Beckylee/Desktop/programming/safari
 lsi: false
 pygments: true
